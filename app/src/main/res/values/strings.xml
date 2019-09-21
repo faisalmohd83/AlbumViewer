@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlbumViewer</string>
+    <string name="no_album">No Album</string>
+</resources>
